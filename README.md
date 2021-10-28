@@ -1,5 +1,5 @@
 # Node.js Test
 
-Various experiments related to node js, such as packages/ libraries for node.js.
+In this repository I specialize in experimenting with the node.js/ javascript library.
 
 https://blog.abdan.xyz/
