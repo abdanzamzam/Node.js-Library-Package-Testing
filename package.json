@@ -1,0 +1,25 @@
+{
+  "name": "Node.js-Library-Package-Testing",
+  "version": "1.0.0",
+  "description": "In this repository I specialize in experimenting with the node.js/ javascript library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdanzamzam/Node.js-Library-Package-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdanzamzam/Node.js-Library-Package-Testing/issues"
+  },
+  "homepage": "https://github.com/abdanzamzam/Node.js-Library-Package-Testing#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "xml2js": "^0.4.23"
+  }
+}
