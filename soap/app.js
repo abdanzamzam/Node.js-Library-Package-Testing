@@ -1,9 +1,9 @@
 const soap = require('soap');
 
-const url = 'http://123.231.237.22/TPSOnlineServices/server.php?wsdl';
+const url = 'https://graphical.weather.gov/xml/SOAP_server/ndfdXMLserver.php';
 const args = {
-     Username: 'INSW',
-     Password: 'INSW123',
+     Username: 'EXAMPLE',
+     Password: 'EXAMPLE123',
      Creator: 'Abdan',
      fStream: {
           NPWP_DEPO: '',
